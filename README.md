@@ -11,6 +11,11 @@ npm install
 npm start
 ```
 
+## Deploy
+```
+gcloud app deploy
+```
+
 ## License
 
 gradlew-update is available under the MIT license. See the LICENSE file for more info.
