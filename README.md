@@ -10,3 +10,7 @@ npm install
 ```
 npm start
 ```
+
+## License
+
+gradlew-update is available under the MIT license. See the LICENSE file for more info.
