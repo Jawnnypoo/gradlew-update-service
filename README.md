@@ -13,7 +13,7 @@ npm start
 
 ## Deploy
 ```
-gcloud app deploy
+flyctl launch
 ```
 
 ## License
